@@ -15,3 +15,5 @@
 - Variáveis e Tipos - Exercicios palindromo e array pares
 
 - Functions
+
+- Coleções - Map e Set
