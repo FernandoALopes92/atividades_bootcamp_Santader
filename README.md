@@ -11,3 +11,5 @@
 - Introdução a criação de websites com HTML5 e CSS3
 
 - Introdução ao JavaScript
+
+- Variáveis e Tipos - Exercicios palindromo e array pares
