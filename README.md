@@ -13,3 +13,5 @@
 - Introdução ao JavaScript
 
 - Variáveis e Tipos - Exercicios palindromo e array pares
+
+- Functions
