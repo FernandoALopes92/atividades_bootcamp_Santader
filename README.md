@@ -17,3 +17,6 @@
 - Functions
 
 - Coleções - Map e Set
+
+- Map, Filter e Reduce
+
