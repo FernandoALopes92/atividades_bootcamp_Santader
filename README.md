@@ -21,3 +21,7 @@
 - Map, Filter e Reduce
 
 - Debug Error
+
+- JavaScript Assíncrono - API dogs
+
+- Orientação a objetos
