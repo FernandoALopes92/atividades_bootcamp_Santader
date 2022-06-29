@@ -20,3 +20,4 @@
 
 - Map, Filter e Reduce
 
+- Debug Error
