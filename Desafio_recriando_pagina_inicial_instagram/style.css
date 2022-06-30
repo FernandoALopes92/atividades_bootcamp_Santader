@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100&display=swap');
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: 'Arima', cursive;
     font-size: 14px;
 }
 
@@ -14,7 +16,7 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
+    justify-content: center;    
 }
 
 .instagram-wrapper {
@@ -22,8 +24,7 @@ body {
     align-items: center;
     justify-content: start;
     width: 90%;
-    height: 100vh;
-    /* background-color: purple; */
+    height: 100vh;    
 }
 
 .instagram-cartaz {
@@ -52,11 +53,12 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff;
+    background-color: #ffffff;    
     width: 100%;
     padding: 1.3rem 0;
     margin-top: 15px;
-    border: 4px double #FED90F;
+    border: 4px double #FED90F;    
+   
 }
 
 .group:nth-child(1) {
@@ -73,7 +75,6 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
-
 }
 
 .profile-photo img {
@@ -82,25 +83,35 @@ body {
 
 .instagram-login {
     /* background-color: #70D1FE; */
-    background-color: #FED90F;
-    color: #ffffff;
+    background-color: #f25e8d;;
+    color: #FFF;;
     padding: 8px;
-    border-radius: 4px;
+    border-radius: 40px;
 }
 
 .instagram-logout {
     color: #70D1FE;
     margin-top: 1rem;
+    font-weight:bold;
+    font-size: 16px;
+    
 }
 
 .not-account {
-    /* color: rgb(160, 160, 160); */
-    color:#70D1FE
+    color:#70D1FE;
+    font-weight: bold;
+    font-size: 16px;
 }
 
 .link-blue {
     /* color: #70D1FE; */
     color: #FED90F;
+    font-size: 18px;
+}
+
+.link-pink{
+    color: #f25e8d;
+    font-size: 18px;
 }
 
 .get-the-app {
@@ -114,7 +125,8 @@ body {
 
 .get-app{
     color: #FED90F;
-    font-size: 18px;
+    font-size: 22px;
+    font-weight: 900;
 }
 
 .download {
