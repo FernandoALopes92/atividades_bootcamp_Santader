@@ -25,3 +25,5 @@
 - JavaScript Assíncrono - API dogs
 
 - Orientação a objetos
+
+- **Desafios JavaScript**
