@@ -26,16 +26,9 @@
 
 - Orientação a objetos
 
-<<<<<<< HEAD
 - **Desafios JavaScript**
 
 - Módulos
 
 - Manipulando a D.O.M. com JavaScript
 
-#### TypeScript
-
-- Introdução ao TypeScript
-=======
-- **Desafios JavaScript**
->>>>>>> parent of 1f01b0f (Manipulando a D.O.M. com JavaScript)
