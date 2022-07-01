@@ -36,3 +36,7 @@
 - Módulos
 
 - Manipulando a D.O.M. com JavaScript
+
+#### TypeScript
+
+- Introdução ao TypeScript
