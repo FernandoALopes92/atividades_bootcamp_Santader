@@ -3,7 +3,7 @@
 ### Repositório de Atividades- Bootcamp FullStack Santander
 <br>
 
-#### HTML5/CSS3
+#### **HTML5/CSS3**
 - Livro de Receitas - exemplo em aula
 
 - Flexbox - exemplos e projeto feito em aula
@@ -12,7 +12,7 @@
 
 - Introdução a criação de websites com HTML5 e CSS3
 
-### JavaScript
+### **JavaScript**
 
 - Introdução ao JavaScript
 
@@ -36,8 +36,12 @@
 
 - Manipulando a D.O.M. com JavaScript
 
-### TypeScript
+### **TypeScript**
 
 - Explicações
 
 - Introdução prática - **Desafios TypeScript**
+
+### **Angular**
+
+- Introdução ao Angular 8 - Projeto Course Manager
